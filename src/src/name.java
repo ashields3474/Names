@@ -8,4 +8,6 @@ public class name {
         System.out.println("Amelia Shields");
     }
 
+    public void chloe(){System.out.println("Chloe Meilinger"); }
+
 }
